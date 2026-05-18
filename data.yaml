@@ -1,0 +1,6 @@
+names:
+- covid-test
+nc: 1
+path: /content/covid-test-detection-2
+train: train/images
+val: train/images
